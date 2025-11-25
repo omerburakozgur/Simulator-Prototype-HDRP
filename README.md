@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://media.giphy.com/media/CSPyxYDRYVgX7zFqc6/giphy.gif" alt="Main Showcase" width="50%" />
+      <img src="https://jumpshare.com/share/hNQD9UjZlTrnYdGoADV6" alt="Main Showcase" width="50%" />
     </td>
   </tr>
   <tr>
