@@ -19,11 +19,11 @@
 </div>
 
 <table>
- <tr>
+  <tr>
     <td colspan="2" align="center">
-        <img src="https://media.giphy.com/media/mWLVIq3CfDMgc5EM1h/giphy.gif" alt="Main Environment Showcase" width="50%">
+      <img src="https://media.giphy.com/media/mWLVIq3CfDMgc5EM1h/giphy.gif" alt="Main Showcase" width="50%" />
     </td>
-</tr>
+  </tr>
   <tr>
     <td width="50%">
       <img src="https://media.giphy.com/media/AUy3JeOjdRC41D0aOw/giphy.gif" alt="Scene" width="100%" />
@@ -41,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 ## 📖 Project Overview
