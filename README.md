@@ -15,12 +15,25 @@
 | **Render Pipeline** | **Language** | **3D Tool** | **Focus** |
 | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Unity_HDRP-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Blender_3D-E87D0D?style=flat-square&logo=blender&logoColor=white" /> | <img src="https://img.shields.io/badge/Tech_Art_%26_Lighting-purple?style=flat-square" /> |
+</div>
 
-![1](https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132)
-![2](https://github.com/user-attachments/assets/f0f74917-ef86-4e2b-a732-c76629568a3a)
-![3](https://github.com/user-attachments/assets/05b3e2d3-734e-4d0c-b782-3a8d7c36d53e)
-![4](https://github.com/user-attachments/assets/91b85438-0925-4cfb-ab5e-582cee7de084)
-![5](https://github.com/user-attachments/assets/e1cd3e3e-0ab2-429e-b6ef-3af3b1f4a7ae)
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132" alt="Main Showcase" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0f74917-ef86-4e2b-a732-c76629568a3a" alt="Detail 1" width="49%" />
+  <img src="https://github.com/user-attachments/assets/05b3e2d3-734e-4d0c-b782-3a8d7c36d53e" alt="Detail 2" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91b85438-0925-4cfb-ab5e-582cee7de084" alt="Detail 3" width="49%" />
+  <img src="https://github.com/user-attachments/assets/e1cd3e3e-0ab2-429e-b6ef-3af3b1f4a7ae" alt="Detail 4" width="49%" />
+</p>
+
+<br>
 
 
 ## 📖 Project Overview
