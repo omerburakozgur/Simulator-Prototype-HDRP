@@ -18,30 +18,21 @@
 
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://media.giphy.com/media/mWLVIq3CfDMgc5EM1h/giphy.gif" alt="Main Showcase" width="50%" />
-    </td>
-  </tr>
-  <tr>
-   <td align="center">
-      <img src="https://media.giphy.com/media/7r6DAIF2uPrA79l4Nq/giphy.gif" alt="Volumetrics" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/7r6DAIF2uPrA79l4Nq/giphy.gif" alt="Volumetrics" width="100%" />
-    </td>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/fLqnUys5pH6Uctpv5v/giphy.gif" alt="Volumetrics" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/fLqnUys5pH6Uctpv5v/giphy.gif" alt="Volumetrics" width="100%" />
-    </td>
-  </tr>
-</table>
-</div>
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" alt="Main Showcase" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x338/005571/FFFFFF?text=Water+System" alt="Water System" width="49%" />
+  <img src="https://via.placeholder.com/600x338/282c34/FFFFFF?text=Volumetric+Lighting" alt="Volumetrics" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x338/239120/FFFFFF?text=Procedural+Terrain" alt="Terrain" width="49%" />
+  <img src="https://via.placeholder.com/600x338/E87D0D/FFFFFF?text=Asset+Wireframes" alt="Assets" width="49%" />
+</p>
 
 <br>
 
