@@ -19,25 +19,25 @@
 </div>
 
 <table>
+ <tr>
+    <td colspan="2" align="center">
+        <img src="https://media.giphy.com/media/mWLVIq3CfDMgc5EM1h/giphy.gif" alt="Main Environment Showcase" width="50%">
+    </td>
+</tr>
   <tr>
-    <td colspan="2">
-      <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" alt="Main Environment Showcase" width="100%" />
+    <td width="50%">
+      <img src="https://media.giphy.com/media/AUy3JeOjdRC41D0aOw/giphy.gif" alt="Scene" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/CSPyxYDRYVgX7zFqc6/giphy.gif" alt="Water" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e?text=Water+System+%26+Reflections" alt="Water System" width="100%" />
+      <img src="https://media.giphy.com/media/7r6DAIF2uPrA79l4Nq/giphy.gif" alt="Road" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e?text=Volumetric+Lighting+%26+Fog" alt="Volumetrics" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e?text=Procedural+Terrain+Detail" alt="Terrain" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e?text=Blender+Asset+Wireframe" alt="Assets" width="100%" />
+      <img src="https://media.giphy.com/media/fLqnUys5pH6Uctpv5v/giphy.gif" alt="Shoreline" width="100%" />
     </td>
   </tr>
 </table>
