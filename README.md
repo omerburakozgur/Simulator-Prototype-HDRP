@@ -7,7 +7,7 @@
   <a href="https://omerburakozgur.itch.io/simhdrp" target="_blank">
     <img src="https://img.shields.io/badge/View_Gallery-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.youtube.com/watch?v=XMrsSZeXPhw" target="_blank">
     <img src="https://img.shields.io/badge/Watch-Tech_Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
 </p>
