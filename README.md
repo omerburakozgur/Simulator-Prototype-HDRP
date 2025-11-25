@@ -3,7 +3,8 @@
 <h1>🌅 Simulator Prototype (HDRP)</h1>
 <h3>High-Fidelity Environment & Technical Art Showcase</h3>
 
-<p> </p><p> <a target="_blank" href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"> <img alt="GitHub" src="https://img.shields.io/badge/Source_Code-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"> </a> <a target="_blank" href="https://www.youtube.com/watch?v=XMrsSZeXPhw"> <img alt="Watch Video" src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> <a href="https://www.artstation.com/artwork/rlmD0m" target="_blank"> <img src="https://img.shields.io/badge/Visuals-Artstation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"> </a> </p>
+<p> </p><p> <a target="_blank" href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"> <img alt="GitHub" src="https://img.shields.io/badge/Source_Code-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"> </a> <a target="_blank" href="https://www.youtube.com/@omerburakozgur6148/videos"> <img alt="Watch Video" src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> <a href="https://www.artstation.com/artwork/rlmD0m" target="_blank"> <img src="https://img.shields.io/badge/Visuals-Artstation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"> </a> </p>
+</div>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=XMrsSZeXPhw" target="_blank">
