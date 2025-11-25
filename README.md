@@ -11,13 +11,7 @@
     <img src="https://img.shields.io/badge/Watch-Tech_Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
 </p>
-
-| **Render Pipeline** | **Language** | **3D Tool** | **Focus** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Unity_HDRP-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Blender_3D-E87D0D?style=flat-square&logo=blender&logoColor=white" /> | <img src="https://img.shields.io/badge/Tech_Art_%26_Lighting-purple?style=flat-square" /> |
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=XMrsSZeXPhw" target="_blank">
@@ -35,7 +29,12 @@
 </p>
 
 <br>
+<div align="center">
 
+| **Render Pipeline** | **Language** | **3D Tool** | **Focus** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Unity_HDRP-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Blender_3D-E87D0D?style=flat-square&logo=blender&logoColor=white" /> | <img src="https://img.shields.io/badge/Tech_Art_%26_Lighting-purple?style=flat-square" /> |
+</div>
 
 ## 📖 Project Overview
 
