@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" alt="Main Showcase" width="100%" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/518828062-680936e7-1bbe-429c-b6b1-51ff496eb90f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251125T193930Z&X-Amz-Expires=300&X-Amz-Signature=5896c842948e1fe7b82ecaa2fd6c36ad9f8abf7aee20f1a849cdbc0fe434937b&X-Amz-SignedHeaders=host" alt="Main Showcase" width="100%" />
 </p>
 
 <p align="center">
