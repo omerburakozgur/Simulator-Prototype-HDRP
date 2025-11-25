@@ -17,9 +17,7 @@
 | <img src="https://img.shields.io/badge/Unity_HDRP-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Blender_3D-E87D0D?style=flat-square&logo=blender&logoColor=white" /> | <img src="https://img.shields.io/badge/Tech_Art_%26_Lighting-purple?style=flat-square" /> |
 
 ![1](https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132)
-
-![1]([https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132](https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/518828062-680936e7-1bbe-429c-b6b1-51ff496eb90f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251125T193930Z&X-Amz-Expires=300&X-Amz-Signature=5896c842948e1fe7b82ecaa2fd6c36ad9f8abf7aee20f1a849cdbc0fe434937b&X-Amz-SignedHeaders=host))
-
+![1](https://media.giphy.com/media/CSPyxYDRYVgX7zFqc6/giphy.gif)
 ## 📖 Project Overview
 
 **Simulator Prototype (HDRP)** is a non-playable technical exploration project focused on achieving **photo-realism** and **high-fidelity simulation** using Unity's High Definition Render Pipeline (HDRP).
